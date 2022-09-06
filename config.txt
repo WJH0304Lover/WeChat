@@ -7,38 +7,38 @@
 ##############################
 
 {
-"app_id": "请替换为自己的 appID",
-"app_secret": "请替换为自己的 appsecret",
+"app_id": "wx0585bb7739d048f4",
+"app_secret": "4a39b29603eafe9c4669cf23d686516c",
 
-"template_id": "请替换为自己的 模板ID",
-"user_id": ["请替换为自己的 微信号"],
+"template_id": "Vfn9O4mEwYf-m8zI60juiep2BPBG8OPrNmKw3WRJn0M",
+"user_id": ["FzF_NF_34"],
 #"user_id": ["请替换为自己的 微信号 01" , "请替换为自己的 微信号 02"],
 
 "C_ShengFen": "陕西",
 "C_ChengShi": "西安",
-"S_XingZuo": "处女座",
+"S_XingZuo": "魔羯座",
 
 "S_Love": "2020-01-01",
-"birthday1": "2001-01-01",
+"birthday1": "2000-03-04",
 "birthday2": "1999-01-01",
 
-"C_String01": "可以替换为自己想要的文字 01",
-"C_String02": "可以替换为自己想要的文字 02",
-"C_String03": "可以替换为自己想要的文字 03",
+"C_String01": "甜甜要开心哦",
+"C_String02": "甜甜要开心哦",
+"C_String03": "甜甜要开心哦",
 
 
 # 天气预报
-"API_TQYB":"请替换为自己申请的 API接口",
+"API_TQYB":"f98beab3c2a3d8493b6072d637790e0a",
 # 星座运势
-"API_XZYS":"请替换为自己申请的 API接口",
+"API_XZYS":"f98beab3c2a3d8493b6072d637790e0a",
 
 # 早安心语
-"API_ZAXY":"请替换为自己申请的 API接口",
+"API_ZAXY":"f98beab3c2a3d8493b6072d637790e0a",
 # 晚安心语
-"API_WAXY":"请替换为自己申请的 API接口",
+"API_WAXY":"f98beab3c2a3d8493b6072d637790e0a",
 
 # 舔狗日记
-"API_TGRJ":"请替换为自己申请的 API接口",
+"API_TGRJ":"f98beab3c2a3d8493b6072d637790e0a",
 # 土味情话
-"API_TWQH":"请替换为自己申请的 API接口"
+"API_TWQH":"f98beab3c2a3d8493b6072d637790e0a"
 }
